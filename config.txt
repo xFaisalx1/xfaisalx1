@@ -1,5 +1,5 @@
-token=NDE4ODA2NTk1OTcxOTczMTIw.DsmPtQ.EoEAevGm8tiBPvx9mzlDuvfNs1I
-owner=225114081739145219 
+token=NDE4ODA2NTk1OTcxOTczMTIw.DsmSUQ.AVje6WTQxEEpVJMgiuU3bc6SOZw
+owner=225114081739145219
 prefix=F
 game= Faisal
 stayinchannel=true
