@@ -1,6 +1,7 @@
-token=NDE4ODA2NTk1OTcxOTczMTIw.DsmSUQ.AVje6WTQxEEpVJMgiuU3bc6SOZw
+?token=NDE4ODA2NTk1OTcxOTczMTIw.DsmSUQ.AVje6WTQxEEpVJMgiuU3bc6SOZw
 owner=225114081739145219
-prefix=F
+prefix= F
 game= Faisal
 stayinchannel=true
 songinstatus=false
+token=NDE4ODA2NTk1OTcxOTczMTIw.DsmSUQ.AVje6WTQxEEpVJMgiuU3bc6SOZw
